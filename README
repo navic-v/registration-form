@@ -1,0 +1,53 @@
+# 🐱 Cat Photo App
+
+A simple and beginner-friendly HTML project created as part of the FreeCodeCamp curriculum. This app is designed to showcase the foundational concepts of HTML, including semantic elements, forms, and responsive design.
+
+---
+
+## 🌟 Features
+- **Semantic HTML**: Clean, structured, and accessible markup.
+- **Form Elements**: Includes input fields, buttons, and labels.
+- **Responsive Design**: Adapts seamlessly to different screen sizes.
+- **Media Usage**: Integrated images for a better visual experience.
+
+---
+
+## 📂 Project Structure
+- **HTML**: `first-course.html`
+- **CSS**: `css/first-course-css.css`
+- **Images**: 
+  - `laser-pointer-cat.jpg`
+  - `durian-cat.jpg`
+  - `cat-gallery.jpg`
+
+---
+
+## 🚀 Demo
+Check out the live demo here: [Cat Photo App Demo](https://navic-v.github.io/cat-photo-app/)
+
+---
+
+## 📖 What I Learned
+1. The importance of semantic HTML for accessibility and SEO.
+2. How to structure a basic web page with meaningful tags.
+3. Using forms to capture user input and create interactive elements.
+
+---
+
+## 🔧 How to Run Locally
+1.  Clone the repository:
+    ```bash
+    git clone https://github.com/navic-v/cat-photo-app.git
+2.  Navigate to the project directory:
+    cd cat-photo-app
+3.	Open index.html in your browser.
+
+
+## 🤝 Contributions
+
+This is a beginner-level project intended for learning purposes. Feel free to fork and improve it, and don’t forget to submit a pull request with your changes!
+
+## 📜 License
+
+This project is licensed under the MIT License.
+
